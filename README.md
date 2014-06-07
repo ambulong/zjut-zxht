@@ -53,7 +53,7 @@ Fork us!
 
 ### LICENSE
 
-This software is licenced under the [LGPL 2.1](http://www.gnu.org/licenses/lgpl-2.1.html). Please read LICENSE for information on the
+This software is licenced under the [GPL 2.0](http://www.gnu.org/licenses/gpl-2.0.html). Please read LICENSE for information on the
 software availability and distrib
 
 ### ACKNOWLEDGEMENTS
