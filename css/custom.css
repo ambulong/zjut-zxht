@@ -1,0 +1,82 @@
+#login_panel {
+	border: none;
+	margin:0 auto;
+	margin-top:10%;
+	width: 350px;
+	height: 430px;
+}
+#main {
+	margin: 66px auto;
+	width: 956px;
+}
+.panel {
+	float: left;
+	margin-left: 6px;
+	min-width: 360px;
+}
+.panel-heading {
+	height: 40px;
+}
+.panel-title {
+	font-size: 14px;
+	font-weight: bold;
+	min-width: 100px;
+	float: left;
+}
+#nav-operate {
+	float: left;
+	width: 100%;
+	padding: 13px 6px;
+	border-bottom: 1px solid gray;
+	background: #FFF;
+	z-index: 44;
+}
+#nav-operate button {
+	margin: 3px;
+}
+#nav-pagination {
+	float: right;
+	margin-right: 13px;
+	margin-top: 3px;
+}
+#main table.mtable td:first-child {
+	width: 230px;
+}
+#main table.ctable td:first-child {
+	width: 130px;
+}
+#main table td {
+	font-size: 13px;
+}
+td.title{
+	width:400px;
+}
+td.title a {
+	text-decoration: none;
+	font-size: 13px;
+	font-weight:bold;
+	color: #333;
+}
+#projs td input {
+	margin-right: 13px;
+	float: left;
+}
+.main-content-operate {
+	float: left;
+}
+#projs .main-content-operate a {
+	text-decoration: none;
+	padding: 0 1px;
+	font-size: smaller;
+}
+.tr-add td div{
+	max-width:100px;
+	overflow:hidden;
+	text-overflow:ellipsis;
+}
+#copyright {
+	padding: 23px 0;
+	text-align: center;
+	float: left;
+	width: 100%;
+}
