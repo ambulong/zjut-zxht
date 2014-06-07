@@ -18,7 +18,7 @@ latest PHP version whenever possible.
 
 Import the file `./jhzx.sql` to your MySQL database
 
-Config the php file `./config.php` first.
+Config the php file `./config.php`
 ```php
 <?php
 $config['dbHost']		=	'localhost';	/**< 数据库地址 */
