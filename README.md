@@ -43,6 +43,9 @@ If you want to open 'new message alert', you need to config PHPMailer in file `.
 
 You can can change the administartor's username 'zjut' in table 'jh_users', the default password is 'jinghong'
 
+###Reporting Potential Security Issues
+
+If you have encountered a potential security vulnerability in this project, please report it to us at [zeng.ambulong@gmail.com](mailto:zeng.ambulong@gmail.com). We will work with you to verify the vulnerability and patch it.
 
 ###Want to contribute?
 
