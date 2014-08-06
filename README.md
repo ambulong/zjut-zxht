@@ -2,6 +2,7 @@ zjut-zxht
 =========
 
 精弘网络招新后台
+项目已经迁移到[https://github.com/ZJUT/recruit_stable](https://github.com/ZJUT/recruit_stable),后续更新关注[精弘网络](https://github.com/ZJUT/recruit_stable)
 
 ### AUTHOR
 [zeng.ambulong@gmail.com](mailto:zeng.ambulong@gmail.com)
@@ -39,7 +40,7 @@ $config['timezone']		=	'Asia/Shanghai';	// 时区
 $config['debug']		=	1;				// 是否开启调试模式
 ```
 
-If you want to open 'new message alert', you need to config PHPMailer in file `./function.php` at line 200 to 233
+If you want to use 'new message alert', you need to config PHPMailer in file `./function.php` at line 200 to 233
 
 You can can change the administartor's username 'zjut' in table 'jh_users', the default password is 'jinghong'
 
